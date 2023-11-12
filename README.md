@@ -2,7 +2,7 @@
 - 👀 I’m interested in js, .py, learning projects
 - 🌱 I’m currently learning .js
 - 💞️ I’m looking to collaborate on ...helpful prject
-- 📫 How to reach me ..
+- 📫 How to reach me ..https://github.com/clain26
 
 <!---
 clain26/clain26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
